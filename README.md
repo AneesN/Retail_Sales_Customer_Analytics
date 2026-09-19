@@ -51,7 +51,7 @@ Retail-Sales-Customer-Analytics/
 │   ├── Product-Analysis.jpg
 │   ├── Customer-Analysis.jpg
 │   ├── Product-Performance.jpg
-│   ├── Customer-Insights.jpg
+│   ├── Customer-Insight.jpg
 │   └── Tooltip-Quick-Insights.jpg
 │
 └── Assets/
@@ -374,7 +374,7 @@ FactSales[Customer Name]
 
 ### Screenshot
 
-![Customer Insights](Screenshots/customer-insights.jpg)
+![Customer Insights](Screenshots/customer-insight.jpg)
 
 ---
 
