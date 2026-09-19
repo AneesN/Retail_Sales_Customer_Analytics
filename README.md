@@ -989,25 +989,6 @@ The dataset contains transactional sales information across:
 
 ---
 
-# 👨‍💻 Project Author
-
-**Anees Nechiyan**
-
-Power BI Developer | Data Analyst | Business Intelligence
-
-### Focus Areas
-
-- Power BI
-- SQL
-- DAX
-- Data Analytics
-- Business Intelligence
-- Dashboard Development
-- Data Visualization
-- Python Automation
-
----
-
 ## ⭐ Project Highlights
 
 This project demonstrates an end-to-end Power BI workflow:
@@ -1036,18 +1017,5 @@ Product Drill-Through
 Customer Drill-Through
      ↓
 Tooltip Insights
-```
 
----
 
-## 📌 Portfolio Use
-
-This project can be used as a portfolio demonstration for:
-
-- Power BI Developer
-- Data Analyst
-- Business Intelligence Analyst
-- Reporting Analyst
-- BI Developer
-
-It showcases both **technical Power BI skills** and **business-focused analytical thinking**.
