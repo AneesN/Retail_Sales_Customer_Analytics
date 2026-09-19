@@ -1,6 +1,6 @@
 # Retail Sales & Customer Analytics — Power BI
 
-![Project Logo](Assets/logo.png)
+![Project Logo](Assets/logo-01.png)
 
 A complete **Power BI retail analytics project** built using the Superstore sales dataset.  
 The project focuses on **sales performance, profitability, customers, products, targets, YoY analysis, drill-through analysis, ranking, contribution %, and interactive business insights**.
@@ -45,14 +45,14 @@ Retail-Sales-Customer-Analytics/
 │   └── Superstore.csv
 │
 ├── Screenshots/
-│   ├── Home.png
-│   ├── Dashboard.png
-│   ├── Sales-Target.png
-│   ├── Product-Analysis.png
-│   ├── Customer-Analysis.png
-│   ├── Product-Performance.png
-│   ├── Customer-Insights.png
-│   └── Tooltip-Quick-Insights.png
+│   ├── Home.jpg
+│   ├── Dashboard.jpg
+│   ├── Sales-Target.jpg
+│   ├── Product-Analysis.jpg
+│   ├── Customer-Analysis.jpg
+│   ├── Product-Performance.jpg
+│   ├── Customer-Insights.jpg
+│   └── Tooltip-Quick-Insights.jpg
 │
 └── Assets/
     └── logo.png
