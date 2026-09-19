@@ -38,7 +38,7 @@ Retail-Sales-Customer-Analytics/
 │
 ├── README.md
 │
-├── PowerBI/
+├── Powerbi/
 │   └── Retail_Sales_Customer_Analytics.pbix
 │
 ├── Dataset/
